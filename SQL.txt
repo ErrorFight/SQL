@@ -1,0 +1,2 @@
+create table samuel
+firstname datatype int,
